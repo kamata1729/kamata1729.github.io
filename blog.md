@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Blog
 layout: blog
 ---
 
