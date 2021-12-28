@@ -46,7 +46,7 @@ author-name: HiromichiKamata
 author-image: https://i.imgur.com/OK0drCt.jpg
 #author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: I'm Hiromichi Kamata (鎌田啓路), a master course student of <a href= "https://www.mi.t.u-tokyo.ac.jp/" >Harada-Mukuta lab</a> at the University of Tokyo. My research interests are Spiking Neural Networks (SNN), accelerating Neural Networks, speech recognitions, etc. <br> Keywords; Spiking Neural Networks, Generative models, speech recognition 
+author-about: I'm Hiromichi Kamata (鎌田啓路), a master course student of <a href= "https://www.mi.t.u-tokyo.ac.jp/" >Harada-Mukuta lab</a> at the University of Tokyo. My research interests are Spiking Neural Networks (SNN), accelerating Neural Networks, speech recognitions, etc.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/kamata1729
 

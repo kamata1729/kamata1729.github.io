@@ -49,16 +49,16 @@
           >CONTACT</a
         >
         <a
-          class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
-          href="{{site.url}}{{site.baseurl}}/blog"
-          >BLOG</a
-        >
-        <a
           class="navbar-item {% if page.layout == 'publications' %}is-active{% endif %}"
           href="{{site.url}}{{site.baseurl}}/publications"
           >PUBLICATIONS</a
         >
-        {% include dropdown.html %}
+        <a
+          class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
+          href="{{site.url}}{{site.baseurl}}/blog"
+          >BLOG</a
+        >
+        
       </div>
     </div>
   </div>

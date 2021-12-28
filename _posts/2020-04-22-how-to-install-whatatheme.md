@@ -8,6 +8,7 @@ tags:
 - how to
 - setup
 - theme
+type: blog
 ---
 
 # What is WhatATheme?
