@@ -16,6 +16,10 @@ Fully Spiking Variational Autoencoder (FSVAE)は、
 
 ---
 
-# This is the h1 text
+# Abstract
+- Spiking Neural Network (SNN)を用いてVAEを構築
+- 通常のANNと同等かそれ以上の精度で画像生成ができることを確認した
 
-AAAI2022に投稿した論文の紹介をします
+
+# はじめに
+Spiking Neural Network (SNN) 

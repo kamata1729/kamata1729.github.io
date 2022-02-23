@@ -407,6 +407,15 @@ a.navbar-item.is-active {
         max-width: -webkit-fill-available;
     }
 
+    .figure img {
+        max-width: 100%
+    }
+
+    .img_right {
+        float: right;
+        margin: 0 15px 15px 0;
+    }
+
     #disqus_thread {
         margin-top: 5vmax;
     }
