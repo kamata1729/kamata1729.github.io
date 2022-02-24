@@ -63,7 +63,7 @@ Neuromorphic deviceは、IntelのLoihiやIBMのTrueNorthなど、現在多くの
 
 # 最近の研究
 最近では、精度の面でもSNNはANNを上回りつつあります。
-画像認識においては、TSSL-BP[Zhang+, NeurIPS2020]で4層~5層のSpiking CNNを訓練し、同じ構造のANNの認識精度を上回っています。また、[Zheng+, AAAI2021]ではさらに短いスパイク列でさらに良い認識精度を更新しています。
+画像認識においては、[TSSL-BP[Zhang+, NeurIPS2020]](https://arxiv.org/abs/2002.10085)で4層~5層のSpiking CNNを訓練し、同じ構造のANNの認識精度を上回っています。また、[[Zheng+, AAAI2021]](https://arxiv.org/abs/2011.05280)ではさらに短いスパイク列でさらに良い認識精度を更新しています。
 
 画像認識以外にも、物体検出や画像生成、オプティカルフローの推定やDVSカメラの解析など、さまざまなタスクにSNNは応用され始めています。
 
