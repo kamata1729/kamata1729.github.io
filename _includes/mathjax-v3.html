@@ -26,6 +26,7 @@
               node.parentNode.replaceChild(text, node);
               math.start = {node: text, delim: '', n: 0};
               math.end = {node: text, delim: '', n: 0};
+              if (display) {math = "\\large{"+math+"}"};
               doc.math.push(math);
             }
           }, '']

@@ -1,7 +1,7 @@
 ---
 title: Spiking Neural Network解説 第一回
 layout: post
-post-image: "https://i.imgur.com/jC9Cvex.png"
+post-image: "/assets/images/card_SNN1.png"
 description: Spiking Neural Networkの概要を解説します
 tags:
 - Spiking neural network
