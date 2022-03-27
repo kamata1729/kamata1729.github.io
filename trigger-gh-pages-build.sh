@@ -12,5 +12,4 @@
 #
 # Thanks to https://stackoverflow.com/a/54088985/1781075
 
-
-curl -u kamata1729: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 -X POST https://api.github.com/repos/kamata1729/kamata1729.github.io/pages/builds
+curl -u $(cat ~/.github_token) -X POST https://api.github.com/repos/kamata1729/kamata1729.github.io/pages/builds
